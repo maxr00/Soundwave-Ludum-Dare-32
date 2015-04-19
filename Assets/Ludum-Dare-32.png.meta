@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: 4f6a1d91955e92240b91d62ae984a74e
+timeCreated: 1429377041
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ludum-Dare-32_0
+    21300002: Ludum-Dare-32_1
+    21300004: Ludum-Dare-32_2
+    21300006: Ludum-Dare-32_3
+    21300008: Ludum-Dare-32_4
+    21300010: RArm
+    21300012: Ludum-Dare-32_6
+    21300014: Ludum-Dare-32_7
+    21300016: Ludum-Dare-32_8
+    21300018: Ludum-Dare-32_9
+    21300020: Ludum-Dare-32_10
+    21300022: Ludum-Dare-32_11
+    21300024: Ludum-Dare-32_12
+    21300026: Ludum-Dare-32_13
+    21300028: Hand
+    21300030: Ludum-Dare-32_15
+    21300032: Ludum-Dare-32_16
+    21300034: Ludum-Dare-32_17
+    21300036: Ludum-Dare-32_18
+    21300038: Ludum-Dare-32_19
+    21300040: Ludum-Dare-32_20
+    21300042: Ludum-Dare-32_21
+    21300044: Ludum-Dare-32_22
+    21300046: Ludum-Dare-32_23
+    21300048: Ludum-Dare-32_24
+    21300050: Ludum-Dare-32_25
+    21300052: LArm
+    21300054: Ludum-Dare-32_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Ludum-Dare-32_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 87
+        width: 15
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ludum-Dare-32_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 116
+        width: 11
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ludum-Dare-32_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 87
+        width: 9
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RArm
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 134
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ludum-Dare-32_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 125
+        width: 11
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ludum-Dare-32_7
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 126
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ludum-Dare-32_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 87
+        width: 9
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ludum-Dare-32_10
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 87
+        width: 9
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ludum-Dare-32_11
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 122
+        width: 5
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ludum-Dare-32_12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 87
+        width: 9
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 128
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ludum-Dare-32_15
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 84
+        width: 11
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ludum-Dare-32_16
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 84
+        width: 11
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ludum-Dare-32_17
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 106
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ludum-Dare-32_18
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 106
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ludum-Dare-32_19
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 106
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ludum-Dare-32_20
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 92
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ludum-Dare-32_21
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 92
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ludum-Dare-32_22
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 92
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ludum-Dare-32_23
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 13
+        width: 24
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ludum-Dare-32_24
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 29
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LArm
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 134
+        width: 2
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ludum-Dare-32_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 137
+        width: 2
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ludum-Dare-32_4
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 137
+        width: 2
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ludum-Dare-32_5
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 137
+        width: 2
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
